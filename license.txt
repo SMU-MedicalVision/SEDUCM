@@ -1,0 +1,25 @@
+License Terms
+The terms apply to anyone who uses it:
+*	use, copy, modify, creative derivative works, distribute the Software for non-commercial purposes,
+*	updates
+*	supplements,
+
+for this software, unless other terms accompany those items. If so, those terms apply.
+By using the software you accept these terms. If you do not accept them, do not use the software. If you comply with these license terms, you have the rights below.
+SCOPE OF RIGHTS: 
+*	License Grant. You may use, copy, modify, creative derivative works, and distribute the Software for non-commercial purposes. Examples of non-commercial uses are teaching, academic research, public demonstrations and personal experimentation. 
+*	Publication.  You may publish (or present papers or articles) on your results from using the software, provided that no software source code or object code or documentation is included in any such publication or presentation.  
+*	Third Party Programs. The software may include third party programs that licenses to you under this agreement. Notices, if any, for the third party program are included for your information only.
+In return, we simply require that you agree: 
+*	If you distribute the Software or any derivative works of the Software, you will distribute them under the same terms and conditions as in this license, and you will not grant other rights to the Software or derivative works. 
+*	If you have created derivative works of the software, and distribute such derivative works, you will cause the modified files to carry prominent notices so that recipients know that they are not receiving the original software. Such notices must state: (i) that you have changed the software; and (ii) the date of any changes. 
+*	Not to alter any copyright, trademark or patent notice in the software;
+*	Not to include the software in malicious, deceptive or unlawful programs;
+TERM; TERMINATION. The term of this Agreement will commence upon your acceptance of these license terms and will continue indefinitely unless terminated as provided herein. If you breach this agreement or if you sue anyone over patents that you think may apply to or read on the software or anyone's use of the software, this agreement (and your license and rights obtained herein) terminate automatically. If this agreement is terminated, you must cease using and distributing any derivative works or modifications of the Software.  Any sections that are intended to survive termination of this agreement shall survive.
+In using the Software, you must comply with any technical limitations in the software that only allow you to use it in certain ways. You may not
+*	work around any technical limitations in the software;
+*	reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+*	make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+*	rent, lease or lend the software;
+*	transfer the software or this agreement to any third party; or
+*	use the software for commercial software hosting services.
