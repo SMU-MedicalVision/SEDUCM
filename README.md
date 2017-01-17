@@ -1,7 +1,6 @@
-# SEDUCM
 ###################################################################
 #                                                                 #
-#    Fast and Accurate Lung Field Segmentation                   #
+#    Fast and Accurate Lung Field Segmentation                    #
 #    in Chest Radiographs                                         #
 #                                                                 #
 ###################################################################
